@@ -1,3 +1,5 @@
+// GlobalExceptionHandler.java
+
 package com.example.springbootdemo.exception;
 
 import org.springframework.http.HttpStatus;

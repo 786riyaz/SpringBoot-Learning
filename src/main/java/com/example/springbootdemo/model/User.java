@@ -1,3 +1,5 @@
+// User.java
+
 package com.example.springbootdemo.model;
 
 import jakarta.persistence.*;
